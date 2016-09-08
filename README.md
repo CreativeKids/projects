@@ -7,3 +7,7 @@ Each project is designed to be engaging, fun and interesting with the goal that 
 Unless specified otherwise, projects are licensed under the [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed) license.
 
 Please visit the [Creative Kids](www.creativekidssa.com.au) website for further information about the context surrounding these projects.
+
+## Credits
+
+Attribution and thanks is given to [Kodeklubben](http://kodeklubben.github.io/) upon which many projects are based (and translated from).
