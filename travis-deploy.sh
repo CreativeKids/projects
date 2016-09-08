@@ -19,7 +19,7 @@ git config user.email "rhys@creativekidssa.com.au"
 
 git remote add upstream "https://$GH_TOKEN@github.com/CreativeKids/website.git"
 git fetch upstream
-git pull master
+git pull upstream master
 
 rm -rf projects/
 cp -R ../lektor_build projects/
