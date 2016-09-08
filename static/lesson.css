@@ -1,0 +1,79 @@
+
+h2.check {
+    background-image: url(/static/icons/check.svg);
+    background-size: 40px 40px;
+    background-repeat: no-repeat;
+    padding-top: 4px;
+    padding-bottom: 9px;
+    padding-left: 50px;
+  }
+  
+code {
+  // Note that build-system must have the first listed font installed
+  //           Linux          Mac            Windows   Fallback
+  font-family: "Ubuntu Mono", Menlo, Monaco, Consolas, "Courier New", monospace;
+      background-color: #f9f2f4;
+    color: #c7254e;
+}
+
+
+  h2.flag {
+    /*color: rgb(54,161,55);*/
+    background-image: url(/static/icons/flag.svg);
+    background-position: 0px 10px;
+    background-size: 40px 40px;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 60px;
+  }
+  
+    h2.save {
+    /*color: rgb(36,90,154);*/
+    background-image: url(/static/icons/save.svg);
+    background-position: 0px 10px;
+    background-size: 40px 40px;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+  }
+
+li > p {
+    margin: 0 0 0 10.5px;
+}
+
+li:before {
+    content: " ";
+    border-radius: 8px;
+    border: 3px solid #ABDBEA;
+    padding: 10px 10px;
+    float: left;
+    margin-left: -40px;
+    cursor: pointer;
+}
+li {
+    list-style: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    // adjust all elements inside a list item
+    margin-left: 45px;
+}
+
+li.activity-done {
+    color: #000000;
+    font-style: italic;
+    text-decoration: line-through;
+}
+
+li.activity-done:before {
+    background: url(/static/icons/checkbox.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+code.blockmotion { background-color: #505FD7 !important; }
