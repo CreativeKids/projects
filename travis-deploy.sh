@@ -10,6 +10,7 @@ fi
 
 rev=$(git rev-parse --short HEAD)
 
+cd school-website
 mkdir build
 cd build
 git init
