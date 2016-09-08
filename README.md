@@ -1,4 +1,5 @@
 # Creative Computer Science Projects
+[![Build Status](https://travis-ci.org/CreativeKids/projects.svg?branch=master)](https://travis-ci.org/CreativeKids/projects)
 
 This repository contains creative computer science projects designed to inspire children in learning about some of the most powerful ideas in computer science.
 
