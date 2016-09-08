@@ -26,4 +26,4 @@ cp -R ../lektor_build projects/
 
 git add -A .
 git commit -m "rebuild pages at ${rev}"
-git push -q upstream HEAD:master
+git push -q upstream master
