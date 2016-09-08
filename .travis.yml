@@ -6,6 +6,5 @@ cache:
     - $HOME/.cache/lektor/builds
 install: ./travis-install.sh
 script: cd school-website && lektor build -O lektor_build
-deploy:
-  provider: script
-  script: ./travis-deploy.sh
+after_success:
+  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && bash deploy_travis.sh
