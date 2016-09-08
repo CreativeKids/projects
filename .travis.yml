@@ -4,7 +4,7 @@ cache:
   directories:
     - $HOME/.cache/pip
     - $HOME/.cache/lektor/builds
-install: git clone https://gitlab.com/rhysmoyne/school-website.git && cd school-website && ./travis-install.sh
+install: git clone https://$GH_TOKEN@github.com/CreativeKids/school-website.git && cd school-website && ./travis-install.sh
 script: lektor build -O lektor_build
 after_success:
   - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && bash travis-deploy.sh
