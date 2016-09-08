@@ -5,7 +5,7 @@ cache:
     - $HOME/.cache/pip
     - $HOME/.cache/lektor/builds
 install: ./travis-install.sh
-script: cd school-website && lektor build
+script: cd school-website && lektor build -O lektor_build
 deploy:
   provider: script
-  script: "lektor deploy ghpages"
+  script: ./travis-deploy.sh
