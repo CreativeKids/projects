@@ -12,7 +12,7 @@ As projects are added here, they are automatically converted into the Lektor [sc
 Please visit the [Creative Kids website](http://www.creativekidssa.com.au) for further information about the context surrounding these projects.
 
 
-## How to Write a New Project
+## Writing a New Project
 
 XXX
 
