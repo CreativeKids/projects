@@ -7,7 +7,7 @@ Each project is designed to be engaging, fun and interesting with the goal that 
 
 Unless specified otherwise, projects are licensed under the [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed) license.
 
-As projects are added here, they are automatically converted into the Lektor [school-website](https://github.com/CreativeKids/school-website) template and also published publicly at [www.creativekidssa.com.au/projects](www.creativekidssa.com.au/projects). 
+As projects are added here, they are automatically converted into the Lektor [school-website](https://github.com/CreativeKids/school-website) template and published publicly at [www.creativekidssa.com.au/projects](www.creativekidssa.com.au/projects). 
 
 Please visit the [Creative Kids website](www.creativekidssa.com.au) for further information about the context surrounding these projects.
 
