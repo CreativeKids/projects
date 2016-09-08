@@ -8,6 +8,11 @@ Unless specified otherwise, projects are licensed under the [CC-BY SA 4.0](https
 
 Please visit the [Creative Kids](www.creativekidssa.com.au) website for further information about the context surrounding these projects.
 
+
+## Writing a new project 
+
+Please visit XXX
+
 ## Credits
 
 Attribution and thanks is given to [Kodeklubben](http://kodeklubben.github.io/) upon which many projects are based (and translated from).
