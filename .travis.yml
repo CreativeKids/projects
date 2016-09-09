@@ -8,3 +8,6 @@ install: git clone https://$GH_TOKEN@github.com/CreativeKids/school-website.git 
 script: lektor build -O lektor_build
 after_success:
   - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && bash travis-deploy.sh
+notifications:
+  recipients:
+    - rhys@creativekidssa.com.au
