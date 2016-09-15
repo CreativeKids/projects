@@ -14,7 +14,7 @@ Please visit the [Creative Kids website](http://www.creativekidssa.com.au) for f
 
 ## Writing a New Project
 
-XXX
+[Writing a Good Project](https://github.com/CreativeKids/wiki/blob/master/Writing_a_Good_Project.md)
 
 ## Credits
 
