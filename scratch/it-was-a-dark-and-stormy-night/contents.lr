@@ -24,7 +24,7 @@ In this step, you will program the rain sprite to repeat moving from the top of 
 
 ## Checklist {.check}
 
-First, we will set a starting position for the rain and make it move down to look like falling rain. 
+First, we will set a starting position for the rain and make it move down to look like falling rain.
 
 + From the `motion` menu, drag out the following block:
 
@@ -158,3 +158,5 @@ Now it's time to get creative! What kind of story will you create in this settin
 level: one
 ---
 license: ccbysa
+---
+translator: Rhys Moyne
