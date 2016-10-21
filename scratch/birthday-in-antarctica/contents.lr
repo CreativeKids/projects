@@ -10,28 +10,21 @@ translator: Rhys Moyne
 ---
 instructions:
 
-# Introduksjon {.intro}
+# Introduction {.intro}
 
-Bursdag i Antarktis er en interaktiv animasjon som forteller
-historien om en liten katt som har gått seg bort på bursdagen
-sin. Heldigvis treffer han noen hyggelige pingviner han kan feire
-sammen med.
+Birthday in Antarctica is an interactive animation that tells the story of a cat that has wandered off on their birthday. Luckily, he meets some nice penguins he can celebrate with!
 
-![](bursdag_i_antarktis.png)
+![](birthday_in_antarctica.png)
 
-# Steg 1: En katt på villspor {.activity}
+# Step 1: A stray cat {.activity}
 
-*Vi lager en katt som kan gå rundt i Antarktis på egen hånd.*
+*We create a cat that can walk around Antarctica on their own.*
 
-Vi skal etterhvert fortelle en ganske spennende historie om katten som
-møter dansende pingviner på bursdagen sin. Men som alltid er det greit
-å begynne med noe ganske enkelt, for deretter å bygge videre på det.
+We will eventually tell a pretty interesting story about a cat that meets dancing penguins on their birthday. But as always it is good to start with something fairly simple and then build on it.
 
-## Sjekkliste {.check}
+## Checklist {.check}
 
-+ Start et nytt prosjekt. Gi kattefiguren navnet `Felix`, og sett
-  rotasjonsmåten hans til
-  ![sideveis](../bilder/rotasjonsmate-hv.png).
++ Start a new project. Create a cat character named Felix , and set his rotation style to left-right.
 
 + Lag en ny bakgrunn ved å klikke
   ![velg en ferdig bakgrunn](../bilder/velg-bakgrunn.png) nede til
